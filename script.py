@@ -12,7 +12,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/'> </a>
+➥ Creator: <a href='https://t.me/Zeus095'> </a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -20,14 +20,14 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 ➥ Build Status: v2.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
-Source: <a href='https:///tgmoviebot'>GitHub - Click here 👈</a>
+IMDb is a private source project.
+Source: <a href='https:///'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/'> </a>
+- <a href='https://t.me/Zeus095'> </a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/'> </a>"""
+- <a href='https://t.me/Zeus095'> </a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -46,7 +46,7 @@ Source: <a href='https:///tgmoviebot'>GitHub - Click here 👈</a>
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- tgmoviebot support both url and alert inline buttons.
+-  support both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
